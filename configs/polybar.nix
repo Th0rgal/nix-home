@@ -63,8 +63,8 @@ in {
 
         radius = 0;
 
-        font-0 = "FuraCode Nerd Font:size=12;3";
-        font-1 = "FuraCode Nerd Font:style=Bold:size=12;3";
+        font-0 = "FiraCode Nerd Font:size=12;3";
+        font-1 = "FiraCode Nerd Font:style=Bold:size=12;3";
 
         modules-left = "distro-icon dulS ddrT i3 dulT";
         modules-center = "title";
@@ -97,8 +97,8 @@ in {
         tray-scale = 1;
         padding = 0;
 
-        font-0 = "FuraCode Nerd Font:size=12;3";
-        font-1 = "FuraCode Nerd Font:style=Bold:size=12;3";
+        font-0 = "FiraCode Nerd Font:size=12;3";
+        font-1 = "FiraCode Nerd Font:style=Bold:size=12;3";
 
         modules-left = "powermenu ddlS";
 
